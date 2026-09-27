@@ -1,8 +1,8 @@
 # ACCA LW-GLO — Section C: Transportation and payment of international business transactions
 
-## Part 1 — Coverage and accuracy audit (version 2, completed against chapter 09)
+## Part 1 — Coverage and accuracy audit (version 2.1, completed against chapter 09)
 
-Prepared 27 September 2026 against the ACCA LW-GLO Syllabus and Study Guide, September 2026 to June 2027. Version 1 was issued before chapter 09 was available; this version completes the chapter-dependent sections.
+Prepared 27 September 2026 against the ACCA LW-GLO Syllabus and Study Guide, September 2026 to June 2027. Version 1 was issued before chapter 09 was available; this version completes the chapter-dependent sections. Version 2.1 (27 September 2026) records the examinable documents list received; changed rows are marked v2.1.
 
 ---
 
@@ -13,7 +13,7 @@ Prepared 27 September 2026 against the ACCA LW-GLO Syllabus and Study Guide, Sep
 | Chapter 09 | AVAILABLE: "Chapter 9 — Documents Found in International Trade", OpenTuition LW-GLO notes, edition "September 2026 to June 2027 exams", pages 57–64 (p.64 blank). Read in full. | Coverage graded; Corrections and Cut logs completed. |
 | 00__Front_matter_and_Contents.pdf | NOT AVAILABLE | Mapping "C → 09" confirmed from the chapter's title and content, but whether any other chapter carries Section C content (in particular the UNCITRAL Model Law on credit transfers, which chapter 09 omits) cannot be checked. Open point 6.2. |
 | LWGLO_detailed_study_guide.pdf | Replaced by the uploaded official ACCA LW-GLO Syllabus and Study Guide, Sept 2026–June 2027 (level 1). | Scope, outcomes and levels established. |
-| EXAMINABLE_DOCUMENTS.pdf | NOT AVAILABLE; ACCA's page is blocked by the network policy. | Instruments and versions beyond the two UNCITRAL texts named in the study guide cannot be confirmed. Open point 6.1. |
+| EXAMINABLE_DOCUMENTS.pdf | RECEIVED 27 September 2026 (v2.1). The document is ACCA's "Examinable documents September 2026 until June 2027" for Corporate and Business Law (LW-ENG). Its opening paragraph covers LW-GLO: regulations and legislation issued by 31 August 2024 are examinable for LW-ENG and LW-GLO CBE from 1 September 2026 until 30 June 2027; documents may be examinable even if the effective date is in the future; the cut-off was extended to June 2027 because a new LW-ENG/LW-GLO syllabus starts on 1 July 2027. Its topic lists (English legal system, obligations, employment, partnership, company law, corporate fraudulent and criminal behaviour) are LW-ENG content and name no Section C instrument. The LW-GLO list is a separate ACCA document and has not been supplied. | Syllabus window confirmed for LW-GLO. Instruments and versions beyond the two UNCITRAL texts named in the study guide still cannot be confirmed. Open point 6.1 stays open. |
 | Four examiner's reports | AVAILABLE: S22–A23, S23–A24, S24–A25, S25–A26. | Examiner intelligence complete. |
 | Commercial_Law_Glossary_Study_Notes.pdf | AVAILABLE (72 pages, your own structured notes dated September 2026). Parts 7 and 8 and the letter-of-comfort entries read in full; used for definition cross-check only (level 6). | Cross-check done; four glossary statements conflict with higher authority and are not imported (section 3, rows G1–G4). |
 | Primary texts (uncitral.un.org, legislation.gov.uk, iccwbo.org, bailii.org) | Direct access blocked by the network policy. Verified through search-engine extracts of the official pages and, where stated, official-body reproductions. | Quoted provisions are marked Verified with source; the rest are tagged [UNVERIFIED]. |
@@ -56,7 +56,7 @@ Network policy: uncitral.un.org, legislation.gov.uk, accaglobal.com, iccwbo.org,
 | Study guide | September 2026 to June 2027 | p.11: no additions, deletions or amendments against 2025–26. |
 | Chapter 09 | Written for "September 2026 to June 2027 exams" (page header) | Matches the study guide. No mismatch. |
 | Examiner's reports | Sept 2022 to Aug 2026 | Four consecutive annual reports. |
-| Examinable documents | Not available | Mismatch check not possible. |
+| Examinable documents (LW-ENG list, supplied 27 Sept 2026; v2.1) | September 2026 until June 2027; states the same window for LW-GLO CBE (1 September 2026 to 30 June 2027) | Matches the study guide and the chapter. No mismatch. The LW-GLO list itself is outstanding. |
 | Your sitting | Not stated | Assumed within September 2026 to June 2027. Confirm. |
 
 ---
@@ -155,7 +155,7 @@ No chapter content maps to another syllabus section; the one sentence on passing
 
 | # | Point | Tag | What is needed |
 |---|---|---|---|
-| 6.1 | Examinable instruments/versions beyond the two UNCITRAL texts (Hague-Visby, Hamburg, COGSA 1992, UCP 600). The only ACCA LW examinable-documents PDF found covers ten national variants, not GLO. | SOURCE DOES NOT ESTABLISH THIS | Upload EXAMINABLE_DOCUMENTS.pdf or allow accaglobal.com. |
+| 6.1 | Examinable instruments/versions beyond the two UNCITRAL texts (Hague-Visby, Hamburg, COGSA 1992, UCP 600). The document supplied on 27 September 2026 is the LW-ENG list: it names no Section C instrument and does not cover LW-GLO topics (v2.1). The only other ACCA LW examinable-documents PDF found covers ten national variants, not GLO. | SOURCE DOES NOT ESTABLISH THIS | Upload ACCA's examinable documents for Corporate and Business Law (LW-GLO), September 2026 until June 2027, or allow accaglobal.com. |
 | 6.2 | Whether another chapter of the OpenTuition notes covers bank transfers or the Model Law on credit transfers (chapter 09 does not). | SOURCE DOES NOT ESTABLISH THIS | Upload the front matter/contents; if another chapter covers it, supply it. |
 | 6.3 | Model Law Art 11 execution-period wording; Art 12 revocation timing; Art 14 refund text. The glossary paraphrases all three consistently with the additions planned. | [UNVERIFIED] | Allow uncitral.un.org (ml-credittrans.pdf). |
 | 6.4 | Model Law Arts 5(2)–(4), 7, 9, 18, 19 confirmed from official-body reproductions, not from uncitral.un.org. | [UNVERIFIED] against the UNCITRAL text | As 6.3. |
