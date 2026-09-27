@@ -174,4 +174,170 @@ What it covers: the Hague-Visby figures a 1-mark question could lift; not in the
 
 - 🟡 Do not confuse: one year (Hague-Visby time bar) with four years (Convention on bills and notes, Art 84).
 
+
+---
+
+### 2.2 C1(b) Explain the operation of bank transfers [1]
+
+Not in chapter 09 (Part 1: Missing). Level [1]: describe how an international credit transfer moves and label every participant with the term the Model Law uses. The examiner's evidence is Dec 2013: "the majority seemed to think that the sender had to be a bank"; "very few identified the point that originators were also senders".
+
+#### 2.2.1 The credit-transfer chain — MEDIUM
+
+What it covers: the mechanics of a bank transfer as a series of payment orders passing between banks [ADDED: UNCITRAL Model Law on International Credit Transfers Art 2 definitions; chain description from general knowledge, glossary cross-check agrees].
+
+🔵 Text flowchart
+
+Originator (customer who wants to pay) → issues payment order 1 to → Originator's bank → issues payment order 2 to → Intermediary (correspondent) bank, if the two end banks have no account relationship or the currency clears in a third country → issues payment order 3 to → Beneficiary's bank → accepts the order for the beneficiary → credits the Beneficiary.
+
+- 🔴 Each hop is a separate payment order with its own sender and receiving bank; obligations run link by link, not from the originator to a bank it never dealt with [ADDED: Model Law Arts 2 and 5(6); glossary agrees].
+- 🔴 A credit transfer is a "push" payment: the payer's instruction moves the funds. A debit transfer (direct debit, cheque) is a "pull": the payee's instruction moves them. The Model Law covers credit transfers only [ADDED: general knowledge] [UNVERIFIED]. 🟡 The payment-order definition excludes an instruction that provides for payment to be made at the request of the beneficiary [UNVERIFIED].
+- 🟡 Credit transfer is not a letter of credit. A credit transfer moves money unconditionally; a letter of credit is a bank's conditional undertaking to pay against documents. 🟢 Dec 2013 examiner: "a fairly common error was to confuse credit transfers with letters of credit".
+- How ACCA could test it: 1 mark, "Under the Model Law, which of the following is a sender?" (the originator and every sending bank). "The bank in the middle of a chain is the ..." (intermediary bank).
+- 🟢 Scenario (illustrative): Vela BV in Rotterdam instructs its Dutch bank to pay US$1m to Nusantara PT's account at Bank X in Jakarta. The Dutch bank has no account with Bank X and routes the order through its New York correspondent. Labels: Vela = originator and first sender; Dutch bank = receiving bank of order 1, sender of order 2 and the originator's bank; New York bank = intermediary bank; Bank X = beneficiary's bank; Nusantara = beneficiary.
+
+#### 2.2.2 Model Law vocabulary — HIGH
+
+What it covers: the definitions every Model Law question is built from [ADDED: Model Law Art 2, confirmed by official extract unless marked].
+
+| Term | 🔴 Definition | Note |
+|---|---|---|
+| Credit transfer | The series of operations, beginning with the originator's payment order, made for the purpose of placing funds at the disposal of a beneficiary | Includes any payment order issued by the originator's bank or an intermediary bank to carry out the originator's order [UNVERIFIED second limb; glossary agrees] |
+| Payment order | An unconditional instruction, in any form, by a sender to a receiving bank to place at the disposal of a beneficiary a fixed or determinable amount of money | 🟡 "Unconditional": "pay when the goods arrive" is not a payment order |
+| Originator | The issuer of the first payment order in a credit transfer | The customer; also a sender |
+| Beneficiary | The person designated in the originator's payment order to receive funds as a result of the credit transfer | 🟡 Not "payee" (bill of exchange term) |
+| Sender | The person who issues a payment order, including the originator and any sending bank | 🟢 Dec 2013: originators are senders; a sender need not be a bank |
+| Receiving bank | A bank that receives a payment order | Each bank in the chain except the originator is a receiving bank of the order it receives |
+| Intermediary bank | Any receiving bank other than the originator's bank and the beneficiary's bank | The correspondent |
+| Authentication | A procedure established by agreement to determine whether a payment order, or an amendment or revocation of one, was issued by the person indicated as the sender | [UNVERIFIED wording; glossary agrees] |
+| Execution period | The one or two banking days within which a receiving bank must execute an accepted order under Art 11 | [UNVERIFIED wording; glossary agrees] |
+
+- 🟣 O-S-R-I-B: Originator, Sender(s), Receiving bank(s), Intermediary bank, Beneficiary's bank, then the Beneficiary.
+
+---
+
+### 2.3 C1(c) Explain and be able to apply the rules of the UNCITRAL Model Law on International Credit Transfer [2]
+
+Not in chapter 09 (Part 1: Missing). Level [2]: state each rule and apply it to facts. Tested 🟢 2024–25 Q1 (sender's obligation, "very difficult"), Dec 2016 (authentication), Dec 2013 (sender/originator; unauthorised payments). Every item in 2.3 is [ADDED: Model Law + article] unless marked otherwise.
+
+#### 2.3.1 Nature, sphere and structure — MEDIUM
+
+What it covers: what kind of instrument the Model Law is and how it is organised.
+
+- 🔴 A model law is a template for national legislation; it binds no one until a State enacts it, unlike a convention which binds States that ratify it. The Model Law on International Credit Transfers was adopted by UNCITRAL on 15 May 1992 [ADDED: uncitral.un.org, verified]. Enactment record: SOURCE DOES NOT ESTABLISH THIS.
+- 🔴 Sphere: applies to credit transfers where any sending bank and its receiving bank are in different States; a footnote invites States to extend it to domestic transfers; it does not deal with consumer protection [UNVERIFIED].
+- 🔵 Structure (verified): Chapter I General provisions, Arts 1–4 (sphere, definitions, conditional instructions, variation by agreement). Chapter II Obligations of the parties, Arts 5–12 (sender; payment to receiving bank; acceptance or rejection; obligations of receiving bank and of beneficiary's bank; execution period; revocation). Chapter III Consequences of failed, erroneous or delayed credit transfers, Arts 13–18 (assistance; refund; underpayment; overpayment; interest; exclusivity). Chapter IV Completion, Art 19.
+- 🔴 Party autonomy: except as otherwise provided, the rights and obligations of the parties may be varied by agreement (Art 4) [UNVERIFIED]. 🟡 Exceptions matter: parties cannot agree that a sender is bound under an authentication procedure that is not commercially reasonable (Art 5(3), verified); the refund duty may be excluded only where a prudent originator's bank would not otherwise have accepted the order because of a significant risk (Art 14(2)) [UNVERIFIED].
+- How ACCA could test it: 1 mark, "A model law becomes binding when ..." (a State enacts it). 🟡 Trap: "the Model Law has been ratified by X States" is a category error; model laws are enacted, conventions ratified.
+
+#### 2.3.2 Obligations of the sender: Art 5 — HIGH
+
+What it covers: when a sender is bound by an order and when it must pay for it; the most-tested rule in the section.
+
+| Rule | 🔴 Content | Status |
+|---|---|---|
+| Bound by own order, Art 5(1) | A sender is bound by a payment order, or an amendment or revocation, if it was issued by the sender or by another person who had authority to bind the sender | [UNVERIFIED wording] |
+| Bound by authenticated order, Art 5(2) | Where the order is subject to authentication other than mere comparison of signature, a purported sender who did not issue it is nevertheless bound if (a) the authentication was in the circumstances a commercially reasonable method of security against unauthorised payment orders and (b) the receiving bank complied with the authentication | Verified via official-body reproduction |
+| No contracting out downward, Art 5(3) | The parties may not agree that a purported sender is bound under Art 5(2) if the authentication is not commercially reasonable in the circumstances | Verified via reproduction |
+| Escape, Art 5(4) | The purported sender is not bound under Art 5(2) if it proves the order as received resulted from the actions of a person other than (a) a present or former employee of the purported sender, or (b) a person whose relationship with the purported sender enabled that person to gain access to the authentication procedure; but this escape fails if the receiving bank proves the order resulted from the actions of a person who gained access to the procedure through the fault of the purported sender | Verified via reproduction |
+| Bound as received, Art 5(5) | A sender bound by an order is bound by its terms as received; not bound by an erroneous duplicate, error or discrepancy that an agreed detection procedure used by the bank would have revealed; where the error overstated the amount, bound only to the intended amount | [UNVERIFIED] |
+| 🔴 Payment obligation, Art 5(6) | A sender becomes obligated to pay the receiving bank for the payment order when the receiving bank accepts it, but payment is not due until the beginning of the execution period | Verified; 🟢 examiner 2024–25 Q1 |
+
+- What to remember for Art 5(6): two events, one bank. The obligation arises on acceptance by the receiving bank; it is owed to the receiving bank; it falls due at the start of the execution period. 🟡 The 2024–25 distractors swapped "sending bank" for "receiving bank" in one half of the sentence; both halves must say receiving bank.
+- How ACCA could test it: 2 marks, four near-identical options (2024–25 Q1). Section B: "Is the importer obliged to pay its bank before the bank has accepted the order?" (no).
+- 🟢 Scenario (illustrative): Vela BV's Dutch bank accepts Vela's payment order on Monday; the execution period begins Monday. Vela is obliged to pay the Dutch bank from acceptance and the payment is due from the beginning of Monday; the Dutch bank may debit Vela's account.
+
+🔵 Decision tree: who bears an unauthorised payment order (Art 5(1)–(4))
+
+1. Did the sender, or a person with authority to bind it, issue the order? Yes → sender bound (5(1)). No → step 2.
+2. Was the order subject to an authentication procedure beyond mere signature comparison? No → sender not bound. Yes → step 3.
+3. Was the procedure commercially reasonable and did the bank comply with it? No → sender not bound, and the parties cannot have agreed otherwise (5(3)). Yes → step 4.
+4. Can the purported sender prove the order came from someone who was neither its present or former employee nor a person whose relationship with it gave access to the procedure? No → sender bound (5(2)). Yes → step 5.
+5. Can the bank prove that person gained access through the sender's fault? Yes → sender bound. No → sender not bound (5(4)).
+
+- 🟢 Scenario (illustrative): a dismissed bookkeeper keeps Kestrel Ltd's online-banking token and sends a US$400,000 order which the bank verifies under its agreed token procedure. Kestrel is bound: the procedure was commercially reasonable, the bank complied, and the order came from a former employee. Had an outside hacker breached the bank's own systems without any fault of Kestrel, Kestrel would not be bound. 🟢 Dec 2016 tested which party the authentication procedure binds; Dec 2013 part (b) on unauthorised payments was "answered less well".
+
+#### 2.3.3 Payment to the receiving bank: Art 6 — MEDIUM
+
+What it covers: how the Art 5(6) debt is discharged [UNVERIFIED throughout].
+
+- 🔴 Payment occurs when the receiving bank debits an account of the sender, or, where the sender is a bank, when the receiving bank's account with the sender is credited, when the sender's account with the receiving bank is credited, or when final settlement is made through a central bank or a netting arrangement [UNVERIFIED].
+- 🟡 Payment to the receiving bank (Art 6) is not completion of the credit transfer (Art 19).
+
+#### 2.3.4 Acceptance and rejection: Arts 7 and 9 — HIGH
+
+What it covers: the moment a bank becomes bound to carry out an order, which triggers the sender's payment obligation (Art 5(6)) and, at the beneficiary's bank, completes the transfer (Art 19).
+
+| Trigger | Receiving bank other than the beneficiary's bank (Art 7(2)) | Beneficiary's bank (Art 9(1)) | Status |
+|---|---|---|---|
+| 🔴 Receipt, where sender and bank have agreed the bank will execute orders from that sender on receipt | Yes, 7(2)(a) | Yes, 9(1)(a) | Verified via reproduction |
+| Notice of acceptance to the sender | Yes | Yes | [UNVERIFIED] |
+| Issuing an onward payment order intended to carry out the order received | Yes | not applicable | [UNVERIFIED] |
+| Debiting the sender's account as payment for the order | Yes | Yes | [UNVERIFIED] |
+| Crediting the beneficiary's account or otherwise placing funds at the beneficiary's disposal; notifying the beneficiary of the right to withdraw; applying the credit as instructed, to a debt owed to the bank or under a court order | not applicable | Yes | [UNVERIFIED] |
+| 🔴 Silence: the time for giving notice of rejection elapses without notice | Yes, 7(2)(e) | Yes, 9(1)(h) | Verified via reproduction |
+
+- 🔴 Rejection: a bank that does not accept must give notice of rejection; where the sender has sufficient funds with the bank, notice must be given no later than the banking day following the end of the execution period (Arts 7(3), 9(2), verified via reproduction). A bank that fails to give a required notice is deemed to have accepted.
+- 🟡 Trap: "a bank is never bound until it acts" is false; deemed acceptance by silence binds it.
+- How ACCA could test it: 2-mark "which TWO events amount to acceptance"; true/false "A receiving bank that neither executes nor rejects within the time allowed has accepted the order" (true).
+- 🟢 Scenario (illustrative): Bank Y receives an order on Tuesday, the sender's account holds sufficient funds, and Bank Y does nothing. By the end of Wednesday (the banking day after the execution period) no rejection has been sent. Bank Y has accepted and must execute; the sender's payment obligation arose on that deemed acceptance.
+
+#### 2.3.5 Execution: Arts 8, 10 and 11 — HIGH
+
+What it covers: what an accepting bank must do and by when [Arts 8, 10, 11: UNVERIFIED wording; glossary paraphrases agree].
+
+- 🔴 A receiving bank (other than the beneficiary's bank) that accepts an order must issue, within the Art 11 time, a payment order to the beneficiary's bank or to an appropriate intermediary bank that is consistent with the order it received (Art 8) [UNVERIFIED]. If the order is misdirected or lacks data needed to execute it, the bank must notify the sender within the same time [UNVERIFIED].
+- 🔴 The beneficiary's bank that accepts must place the funds at the beneficiary's disposal or otherwise apply the credit as instructed (Art 10) [UNVERIFIED].
+- 🔴 Execution period (Art 11): in principle the receiving bank executes on the banking day the order is received; if not, on the banking day after; an order received after the bank's cut-off time may be treated as received the next banking day; a later date specified in the order governs; late execution must be for value as of the day of receipt [UNVERIFIED]. 🟡 Execution (the bank's own onward order or credit) is not completion (Art 19).
+- 🟢 Scenario (illustrative): an order reaches a Frankfurt bank at 16:30 on Friday, after its 15:00 cut-off. Treated as received on Monday; execution on Monday or Tuesday is within the period; execution on Wednesday is late and interest runs.
+
+#### 2.3.6 Revocation: Art 12 — HIGH
+
+What it covers: whether a sender can stop a transfer once instructed.
+
+- 🔴 A revocation order must be authenticated (Art 12, verified from official extract).
+- 🔴 Timing: a payment order may not be revoked unless the revocation order is received by the receiving bank at a time and in a manner sufficient to afford the bank a reasonable opportunity to act before the later of the actual time of execution and the beginning of the day on which the order ought to have been executed under Art 11; at the beneficiary's bank, before the later of the actual time of completion and the beginning of the day when the funds are to be placed at the beneficiary's disposal [UNVERIFIED].
+- 🔴 The sender and receiving bank may agree that orders are irrevocable, or that revocation is effective only if received earlier than the Model Law requires [UNVERIFIED]. 🟡 The death, insolvency, bankruptcy or incapacity of the sender or originator does not of itself revoke a payment order or terminate the sender's authority [UNVERIFIED].
+- 🔴 A sender whose order is effectively revoked is not obliged to pay for it [UNVERIFIED].
+- How ACCA could test it: Section B, "Can the importer recall the payment on Wednesday if its bank executed on Tuesday?" (no: revocation must reach the bank in time to act before execution).
+- 🟢 Scenario (illustrative): Vela BV sends an authenticated revocation at 09:00 on Tuesday; its bank had executed at 17:00 on Monday. Too late; the order stands. Had the bank not yet executed and had Tuesday been the day it ought to execute, a revocation received early on Tuesday in time to act would be effective.
+
+#### 2.3.7 Failed, erroneous or delayed transfers: Arts 13 to 18 — HIGH
+
+What it covers: the remedies, and their limits, when something goes wrong.
+
+| Situation | 🔴 Rule | Article | Status |
+|---|---|---|---|
+| Transfer not yet completed | Each receiving bank is requested to assist the originator and each subsequent sending bank, and to seek the next bank's assistance, in completing the transfer | Art 13 | [UNVERIFIED] |
+| Transfer not completed at all | The originator's bank must refund to the originator any payment received from it, with interest from the day of payment to the day of refund; each bank in the chain is entitled to the return of funds it paid to its receiving bank, with interest. The "money-back guarantee" | Art 14(1) | Heading verified; text [UNVERIFIED]; glossary agrees |
+| Exceptions to refund | Cannot be varied by agreement except where a prudent originator's bank would not otherwise have accepted the order because of a significant risk; a bank need not refund where an intermediary bank it was directed to use has suspended payment or is legally prevented from refunding | Art 14(2)–(3) | [UNVERIFIED] |
+| Amount too small or too large | Underpayment: the sending bank must issue an order for the difference. Overpayment: the receiving bank recovers the excess from the beneficiary under the law of restitution | Arts 15–16 | [UNVERIFIED] |
+| Delay | A receiving bank that fails to execute in time is liable to the beneficiary for interest on the amount for the period of delay; the bank's liability is for interest only, not consequential loss | Art 17 | Verified (interest-only) |
+| Exclusivity | The remedies in Art 17 are exclusive; no other remedy under other doctrines of law for non-compliance with Arts 8 or 10, except where a bank improperly executed or failed to execute (a) with the specific intent to cause loss, or (b) recklessly and with actual knowledge that loss would be likely to result | Art 18 | Verified |
+
+- 🟡 Trap: the originator gets its money back from its own bank, not from the intermediary that lost it; the banks then recover up the chain. 🟡 Trap: consequential loss (a lost contract because payment arrived late) is not recoverable; interest is the ceiling unless intent or recklessness is proved.
+- 🟢 Scenario (illustrative): the New York intermediary misdirects Vela BV's US$1m and the funds are never received by Bank X. Vela recovers US$1m plus interest from its Dutch bank under Art 14; the Dutch bank recovers from the New York bank. Nusantara PT's claim for a cancelled contract is not recoverable from any bank under the Model Law.
+
+#### 2.3.8 Completion: Art 19 — HIGH
+
+What it covers: the point at which the transfer is done and risk shifts to the beneficiary's side.
+
+- 🔴 A credit transfer is completed when the beneficiary's bank accepts a payment order for the benefit of the beneficiary; on completion the beneficiary's bank becomes indebted to the beneficiary to the extent of the order accepted (Art 19(1), verified via reproduction).
+- 🔴 Completion occurs notwithstanding that a receiving bank has deducted its charges from the amount transferred (Art 19(2), verified). 🟡 "Beneficiary received less than the invoice" does not mean the transfer failed.
+- Optional footnote text offered to enacting States: where the transfer was to discharge the originator's debt to the beneficiary, the debt is discharged when the beneficiary's bank accepts the order, to the extent cash of the same amount would discharge it [UNVERIFIED]. LOW.
+- 🟡 Do not confuse: payment to the receiving bank (Art 6) ≠ execution by a receiving bank (Arts 8, 11) ≠ completion (Art 19) ≠ funds actually available to the beneficiary.
+- 🟢 Scenario (illustrative): Bank X accepts the order for Nusantara PT on Thursday but posts the credit on Friday. The transfer completed on Thursday; from then Bank X, not the Dutch bank or Vela, owes Nusantara the money.
+
+#### 2.3.9 Putting the Model Law together — HIGH
+
+🔵 Life of an international credit transfer, with the article that governs each step
+
+1. Originator issues payment order to its bank (Art 2). Authenticated? Sender bound (Art 5(1)–(4)).
+2. Originator's bank accepts: by agreement on receipt, by act, or by silence (Art 7(2)). Sender now obliged to pay it, due at start of execution period (Art 5(6)); paid by debit or credit (Art 6).
+3. Originator's bank executes within the execution period by issuing its own order to an intermediary or the beneficiary's bank (Arts 8, 11). Same cycle repeats at each intermediary.
+4. Revocation possible only if received in time to act before execution (Art 12).
+5. Beneficiary's bank accepts (Art 9(1)) → transfer completed; bank indebted to beneficiary (Art 19); funds placed at disposal (Art 10).
+6. Failure → refund with interest up the chain (Art 14); delay → interest only (Art 17); no other remedy save intent or recklessness (Art 18).
+
+- 🟣 A-P-E-R-C: Acceptance, Payment obligation, Execution, Revocation window, Completion.
+
 Reply continue.
