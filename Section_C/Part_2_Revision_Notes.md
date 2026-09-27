@@ -87,4 +87,91 @@ Section C supplied three of the twelve Section A questions the examiner chose to
 
 Section C is built on uniform instruments rather than national law, so the common-law, civil-law and Sharia-law comparison is examined here mainly through purpose and origin. 🔴 The Convention was adopted (GA Res 43/165, 9 December 1988) "to overcome the major disparities and uncertainties" between national laws on payment instruments, and applies only where the parties opt in by using the prescribed words [ADDED: UNCITRAL explanatory note]. The chapter and the glossary are silent on any Section C rule that differs between the three systems; a Sharia-law point on interest-bearing instruments would rest on general knowledge alone: SOURCE DOES NOT ESTABLISH THIS (Part 1, open point 6.9). 🟢 Reports 2022–23 and 2023–24: the three systems "will be examined in every exam", so expect them in Sections A and D rather than as Section C detail.
 
+
+---
+
+## 2. Core Knowledge
+
+### 2.1 C1(a) Define and explain the operation of bills of lading [1]
+
+Chapter 09 pp.60–61. Level [1]: you must define the document, name its functions and types, and identify the right document or party in a one-line scenario. Not tested in the four current reports; examined as an essay in June 2011 (meaning of a bill of lading and its role in the passage of risk).
+
+#### 2.1.1 Definition — MEDIUM
+
+What it covers: what a bill of lading is and who issues it to whom (chapter p.60).
+
+- 🔴 A bill of lading is a document issued by the carrier (or the master or the carrier's agent) to the shipper, acknowledging that the carrier has received the goods and that they have been loaded on board a named vessel bound for a named destination, and stating the terms on which the goods are carried [CORRECTED #11: the chapter says "issued ... to a seller (or agent)"; the recipient is the shipper, who is often but not necessarily the seller]. 🟢 ACCA F4 GLO June 2011 model answer.
+- 🔴 Convention definition: a document which evidences a contract of carriage by sea and the taking over or loading of the goods by the carrier, and by which the carrier undertakes to deliver the goods against surrender of the document [ADDED: Hamburg Rules 1978 Art 1].
+- What to remember: three ideas inside the definition — receipt, contract terms, delivery against surrender.
+- How ACCA could test it: 1 mark, "Which party issues a bill of lading?" (the carrier); "To whom?" (the shipper). 🟡 Trap: the chapter's "seller" is wrong where the buyer has booked the carriage (an FOB buyer is the shipper).
+- 🟢 Scenario (illustrative): Mela Ltd sells FOB and the buyer's forwarder books the ship. The carrier issues the bill to the forwarder as shipper, not to Mela Ltd.
+
+#### 2.1.2 The three functions — MEDIUM
+
+What it covers: why one piece of paper matters to carrier, seller, buyer and bank (chapter p.60 mentions receipt and ownership only; the second function is absent).
+
+| Function | Rule | Authority | Exam angle |
+|---|---|---|---|
+| 🔴 Receipt for the goods | On the shipper's demand the carrier issues a bill showing the leading marks for identification (as furnished in writing by the shipper before loading), the number of packages or quantity or weight, and the apparent order and condition of the goods | 🟢 Hague-Visby Rules Art III r.3 (Sch to Carriage of Goods by Sea Act 1971) [ADDED]; items on quantity and condition [UNVERIFIED wording] | A "clean" bill records no defect (see 2.1.5) |
+| 🔴 Evidence of the contract of carriage | The bill states the terms on which the goods are to be carried; the contract is usually made earlier (the booking) and the bill evidences it | 🟢 ACCA June 2011 model answer [ADDED] | 🟡 The bill evidences the contract; it is not itself the contract between shipper and carrier |
+| 🔴 Document of title | A negotiable ("to order") bill passes the right to the goods and to re-route the shipment with the bill, by endorsement and delivery; the carrier must deliver only against surrender of an original | 🟢 ACCA June 2011 answer; Hamburg Rules Art 1 (delivery against surrender) [ADDED] | The bank financing the sale holds the bill as security until reimbursed |
+
+- 🟣 RED: Receipt, Evidence of contract, Document of title.
+- Evidential force of the receipt function: 🔴 the bill is prima facie evidence of the carrier's receipt of the goods as described; once transferred to a third party acting in good faith, proof to the contrary is not admissible [ADDED: Hague-Visby Art III r.4]. 🔴 A bill signed by the master or a person with express, implied or apparent authority is conclusive evidence against the carrier, in favour of the lawful holder, of shipment or receipt for shipment [ADDED: Carriage of Goods by Sea Act 1992 s.4]. LOW detail, conditional on the examinable documents list (Part 1, 6.1).
+- 🟢 Scenario (illustrative): the bill states "200 cartons, apparent good order". The buyer, holding an endorsed bill, receives 180 damaged cartons. Against the buyer the carrier cannot prove it received only 180 in poor condition: the bill is conclusive in the hands of the good-faith transferee.
+
+#### 2.1.3 Operation: from loading to delivery — MEDIUM
+
+What it covers: the sequence in which the bill moves and what each step achieves (chapter p.60 negotiable-bill bullets, reorganised).
+
+🔵 Text flowchart
+
+1. Shipper hands goods to the carrier → carrier issues a bill (a "received for shipment" bill before loading; on the shipper's demand a "shipped" bill after loading, against surrender of any earlier document of title [ADDED: Hague-Visby Art III r.7]).
+2. Bill issued "to order" (negotiable) → the carrier holds the goods for whoever is the lawful holder; the seller as shipper is the first holder (chapter: "the carrier therefore holds the goods on behalf of the seller").
+3. Seller presents the bill (with invoice, insurance and other documents) to a bank to obtain payment under a documentary credit, or to a collecting bank against payment or acceptance of a bill of exchange (chapter: "the seller will present the bill to a bank to obtain payment").
+4. Seller endorses and delivers the bill (chapter: "indorse the bill by signing it (negotiate it), thereby transferring title to the goods") → bank → buyer, each becoming holder in turn.
+5. Buyer, as lawful holder, presents an original at the port of discharge → carrier delivers against surrender [ADDED: Hamburg Rules Art 1].
+6. All rights of suit under the contract of carriage are transferred to and vested in the lawful holder as if a party to the contract [ADDED: Carriage of Goods by Sea Act 1992 s.2(1); LOW, conditional]. 🟡 No transfer where, when the person becomes holder, possession of the bill no longer gives a right against the carrier to possession of the goods [ADDED: s.2(2)].
+
+- Under a documentary credit the bill must show that the goods were shipped on board a named vessel at the port of loading stated in the credit, by pre-printed wording or a dated on-board notation [ADDED: UCP 600 Art 20(a)(ii)].
+- How ACCA could test it: 2-mark true/false, "The carrier may deliver to the buyer who produces a photocopy of the bill" (false: an original must be surrendered). Section B: sub-question asking who may sue the carrier for damage in transit (the lawful holder).
+- 🟢 Scenario (illustrative): Bank Z pays the seller under a credit and holds the endorsed bill. The buyer has not reimbursed Bank Z. The carrier must not release the cargo to the buyer without an original bill; Bank Z, as holder, controls delivery.
+
+#### 2.1.4 Link to the passing of risk — MEDIUM (cross-reference)
+
+What it covers: the chapter's one legal point on risk (p.60) and where the full rule lives.
+
+- Chapter p.60: the bill "evidences the timing of the passing of goods to the carrier; normally, therefore, also the passing of risk to the buyer ... unless the parties have separately agreed the timing of the passing of risk".
+- 🟡 The bill of lading does not itself pass risk. It evidences the event (handing over to the carrier, or loading on board) at which risk passes under the sale contract: CISG Art 67 where the contract involves carriage, or the Incoterm chosen. Those rules are Section B2(d) and B1(c) and are not repeated here [cross-reference only].
+- 🟢 Scenario (illustrative): goods are loaded on 3 May (shipped bill dated 3 May) and damaged at sea on 9 May. The dated on-board bill is the evidence that risk had passed to the buyer before the damage under a contract that passes risk on shipment.
+
+#### 2.1.5 Types of bill and neighbouring documents — MEDIUM
+
+What it covers: the classifications ACCA can ask you to identify (chapter pp.60–61, completed).
+
+| Distinction | 🔴 Rule | Authority | 🟡 Trap |
+|---|---|---|---|
+| Negotiable ("to order") v non-negotiable ("straight", named consignee) | Negotiable bills are issued to the shipper's order rather than to a named consignee; title and the right to re-route go with the bill; transferred by endorsement and delivery. A straight bill names the consignee to whom the carrier must deliver and is not transferable | Chapter p.60; 🟢 ACCA June 2011 answer [ADDED] | "Made out in favour of the buyer" = non-negotiable (chapter); "to order" = negotiable |
+| Shipped (on board) v received for shipment | A shipped bill confirms loading on a named vessel; a received-for-shipment bill confirms only receipt for shipment; the shipper may demand a shipped bill after loading | 🟢 Hague-Visby Art III r.7 [ADDED]; COGSA 1992 s.4 covers both [ADDED] | Credits normally require on-board evidence (UCP 600 Art 20(a)(ii)) |
+| Clean v claused | A clean transport document bears no clause or notation expressly declaring a defective condition of the goods or their packaging; the word "clean" need not appear; banks accept only clean transport documents | 🟢 UCP 600 Art 27 [ADDED] | A claused bill ("cartons wet-stained") is rejected under a credit |
+| Inland, ocean, through | Inland: carriage overland to the international departure point (factory to port). Ocean: port in the seller's State to a port in another State. Through: one contract combining inland and ocean legs (point of manufacture to a port in the buyer's State) | Chapter p.61 | Through bill = one contract, two legs |
+| Sea waybill | Non-negotiable receipt and evidence of the contract of carriage; delivery to the named consignee on proof of identity, without presentation; not a document of title | [ADDED: COGSA 1992 s.1 and s.2(1)(b), definition wording [UNVERIFIED]; glossary cross-check agrees] | 🟡 Not a document of title: no security for a financing bank |
+| Air waybill (chapter: "airway bill") | Covers carriage by air, domestic and international; always non-negotiable (chapter p.61); not a bill of lading and not a document of title [CORRECTED #12] [UNVERIFIED as to the air-carriage source] | Chapter p.61; Hamburg Rules Art 1 ties "bill of lading" to carriage by sea | 🟡 The chapter lists it as a type of bill of lading; it is a different document |
+
+- How ACCA could test it: 1 mark, "Which of the following is a document of title?" (negotiable bill of lading; not sea waybill; not air waybill). 2-mark "which TWO are non-negotiable" (straight bill; sea waybill; air waybill).
+- 🟢 Scenario (illustrative): a carrier issues a document "consigned to Bata Ltd" for goods loaded on MV Kite, with no adverse notations. Identify: a straight (non-negotiable), shipped, clean bill of lading. Bata Ltd collects by proving it is the named consignee.
+
+#### 2.1.6 The carrier's liability frame around the bill — LOW (conditional on the examinable documents list, Part 1 open point 6.1)
+
+What it covers: the Hague-Visby figures a 1-mark question could lift; not in the chapter [ADDED: Hague-Visby Rules, Sch to COGSA 1971, legislation.gov.uk].
+
+| Point | 🔴 Rule | Article |
+|---|---|---|
+| Notice of loss | Written notice of loss or damage at removal of the goods, or within three days if not apparent; otherwise removal is prima facie evidence of delivery as described | 🟢 Art III r.6 |
+| Time bar | Carrier and ship discharged from all liability unless suit is brought within one year of delivery or of the date the goods should have been delivered | 🟢 Art III r.6 |
+| Limit of liability | Unless the nature and value were declared before shipment and inserted in the bill: 666.67 units of account per package or unit, or 2 units of account per kilogramme of gross weight, whichever is the higher (units of account = SDR, replacing 10,000 and 30 francs under the 1979 Protocol) | 🟢 Art IV r.5 |
+| Hamburg Rules status | UN Convention on the Carriage of Goods by Sea 1978, adopted 31 March 1978, in force 1 November 1992; Art 15 contents of the bill; Art 16 reservations and evidentiary effect | 🟢 uncitral.un.org |
+
+- 🟡 Do not confuse: one year (Hague-Visby time bar) with four years (Convention on bills and notes, Art 84).
+
 Reply continue.
