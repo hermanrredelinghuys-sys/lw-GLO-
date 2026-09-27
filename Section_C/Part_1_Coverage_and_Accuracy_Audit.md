@@ -172,4 +172,4 @@ No chapter content maps to another syllabus section; the one sentence on passing
 
 ### Next step
 
-Reply **continue** for Part 2. It will be delivered in parts: (1) Exam Focus; (2) Core Knowledge C1(a) bills of lading; (3) Core Knowledge C1(b)–(c) bank transfers and the Model Law; (4) Core Knowledge C1(d) the Bills and Notes Convention; (5) Core Knowledge C1(e) letters of credit and comfort; (6) Key Comparisons; (7) Cases and Legislation; (8) MCQ Traps and Discrimination Lines; (9) Application Examples; (10) Cold Recall Sheet and Final Exam Checklist.
+Part 2 has been delivered in full as `Section_C/LW-GLO_Ch09_Documents_in_International_Trade_Revision_Notes_colour-coded.html` (sections 1 to 8, Appendix A pending verification, Appendix B corrections). Outstanding: (1) the LW-GLO examinable documents list (open point 6.1); (2) access to uncitral.un.org, legislation.gov.uk, iccwbo.org and bailii.org, or the primary texts as uploads, to settle the [UNVERIFIED] items in open points 6.3 to 6.8 and 6.10 to 6.12 and promote or delete the Appendix A material.
