@@ -340,4 +340,201 @@ What it covers: the point at which the transfer is done and risk shifts to the b
 
 - 🟣 A-P-E-R-C: Acceptance, Payment obligation, Execution, Revocation window, Completion.
 
+
+---
+
+### 2.4 C1(d) Explain and be able to apply the rules of the UN Convention on International Bills Of Exchange And International Promissory Notes [2]
+
+Chapter 09 pp.57–59 (Part 1: Partial). Level [2]: apply the definition, internationality, acceptance, transfer, liability and time-limit rules to a described instrument. Tested 🟢 2025–26 Q1 (acceptance) and Q2 (definite sum), both "which TWO"; 🟢 Dec 2017 (transfer by delivery after blank endorsement). The examiner calls this "a highly complex area of the syllabus". Article numbers are from the Convention text as verified in Part 1; where only the substance is verified the number is tagged.
+
+#### 2.4.1 What the Convention is, and its status — MEDIUM
+
+What it covers: the nature of the instrument the outcome names (not in the chapter beyond the words "Uncitral Convention", p.58).
+
+- 🔴 The United Nations Convention on International Bills of Exchange and International Promissory Notes was adopted by the UN General Assembly on 9 December 1988 (Res 43/165) [ADDED: uncitral.un.org]. 🔴 Purpose: to overcome the major disparities and uncertainties between national laws governing instruments used for international payments [ADDED: UNCITRAL explanatory note]. The two families it bridges are the Geneva Uniform Law system (civil-law States) and the Anglo-American system (UK Bills of Exchange Act 1882 and its descendants) [UNVERIFIED framing; glossary agrees that those two govern most domestic bills].
+- 🔴 It is optional: it governs only an instrument that opts in by carrying the prescribed words (2.4.3). It does not apply to cheques [ADDED: Art 1].
+- 🔴 It is not in force. Art 89(1): entry into force on the first day of the month following twelve months after deposit of the tenth instrument of ratification, acceptance, approval or accession; only five States had become party at the date of the UNCITRAL status source [ADDED: uncitral.un.org]; count as at 2026 [UNVERIFIED].
+- 🟡 Convention v model law: a convention binds the States that ratify it; a model law is enacted into national law. The two Section C UNCITRAL texts are one of each.
+- How ACCA could test it: 1 mark, "How many ratifications does the Convention need to enter into force?" (ten). True/false: "The Convention applies to every bill drawn between parties in different States" (false: opt-in words required).
+
+#### 2.4.2 Definitions: bill of exchange, promissory note and the parties — HIGH
+
+What it covers: the definitions the chapter gets from the wrong statute (p.57) and the parties table (p.59), corrected.
+
+🔴 Bill of exchange (Art 3(1)) [CORRECTED #1]: a written instrument which
+(a) contains an unconditional order whereby the drawer directs the drawee to pay a definite sum of money to the payee or to his order;
+(b) is payable on demand or at a definite time;
+(c) is dated;
+(d) is signed by the drawer.
+
+🔴 Promissory note (Art 3(2)) [ADDED: Convention Art 3(2), verified]: a written instrument which
+(a) contains an unconditional promise whereby the maker undertakes to pay a definite sum of money to the payee or to his order;
+(b) is payable on demand or at a definite time;
+(c) is dated;
+(d) is signed by the maker.
+
+| Element | 🔴 Convention | 🟡 What the chapter (p.57) says instead, and why it fails |
+|---|---|---|
+| Nature | Order (bill) or promise (note) | Chapter has "order" only; notes are absent |
+| Conditionality | Unconditional | Same; "pay if the goods conform" is not a bill |
+| Amount | A definite sum (Art 7 tells you what still counts as definite) | "a sum certain in money" (1882 Act) |
+| Payee | To the payee or to his order | "or to bearer" (1882 Act): no bearer bills under the Convention |
+| Time | On demand or at a definite time (Art 9) | "at a fixed or determinable future time" (1882 Act) |
+| Date | Must be dated | Not mentioned |
+| Signature | Signed by the drawer (bill) or maker (note) | "signed by the person giving it" |
+| Words | Heading and text "International bill of exchange (UNCITRAL Convention)" / "International promissory note (UNCITRAL Convention)" (Art 1) | "the words 'International Bill of Exchange'" [CORRECTED #2] |
+
+🔴 Parties (chapter p.59, corrected and completed; Art 5 wordings [UNVERIFIED] except where marked)
+
+| Party | Who | Liability |
+|---|---|---|
+| Drawer | Signs the bill and orders the drawee to pay; in trade usually the exporter (creditor); may draw on itself or make the bill payable to its own order [Art 10(2) UNVERIFIED] [CORRECTED #8: the chapter's "drawer owes money to the payee / drawee is typically the drawer's bank" is one pattern, not the rule] | Liable if the bill is dishonoured, unless excluded "without recourse" (Art 38) |
+| Drawee | The person on whom the bill is drawn and who has not accepted it; in trade usually the importer or its bank | None until acceptance |
+| Acceptor | The drawee who has accepted (signed) the bill [CORRECTED #9: signature alone suffices] | Primary liability to pay according to the terms of the acceptance |
+| Payee | The person in whose favour the drawer orders (or the maker promises) payment | None as such; enforces as holder |
+| Maker | The person who signs a promissory note promising to pay | Primary liability; cannot exclude it |
+| Endorser | A holder who signs the instrument over to another [CORRECTED #10: not "indorser"] | Liable to later holders on dishonour, unless excluded |
+| Endorsee | The person to whom a special endorsement is made | None until they endorse |
+| Guarantor | A person who guarantees payment by a party (aval) [CORRECTED #7: not "in case of need"] | Same extent as the party guaranteed |
+| Holder | A person in possession under Art 15 (2.4.6) | Enforces the instrument |
+| Protected holder | A holder meeting Art 29 (2.4.7) | Takes free of most defences |
+| Party | A person who has signed as drawer, maker, acceptor, endorser or guarantor [UNVERIFIED wording] | 🟡 A transferor by mere delivery is not a party |
+
+- 🔴 Signature means a handwritten signature, its facsimile or an equivalent authentication effected by any other means [ADDED: Art 5 definition] [UNVERIFIED]. 🔴 A person is not liable on an instrument unless they have signed it; a forged signature imposes no liability on the person whose signature was forged [ADDED: Arts 33–34] [UNVERIFIED].
+- How ACCA could test it: 1 mark, "Which of the following is NOT a requirement of a bill under the Convention?" (payable to bearer). 2 marks true/false: "A promissory note contains an order to pay" (false: a promise); "A bill of exchange must be dated" (true).
+- 🟢 Scenario (illustrative): a document headed "International bill of exchange (UNCITRAL Convention)" reads "Pay to bearer US$50,000 on 1 March 2027", signed by the drawer and dated. It fails Art 3(1)(a): payment must be to the payee or to his order, not to bearer. Redrafted "Pay to Orion GmbH or order", it qualifies.
+
+#### 2.4.3 When the Convention applies: the words and the internationality test (Arts 1–2) — HIGH
+
+What it covers: the two gateways the chapter states loosely (p.58).
+
+- 🔴 Gateway 1, the words (Art 1): the instrument must contain the heading and, in its text, the words "International bill of exchange (UNCITRAL Convention)" or "International promissory note (UNCITRAL Convention)" [CORRECTED #2]. Both places, exact words, including the bracket.
+- 🔴 Gateway 2, internationality (Art 2): the instrument specifies at least two of the following five places and indicates that any two so specified are situated in different States: (1) the place where the bill is drawn; (2) the place indicated next to the signature of the drawer; (3) the place indicated next to the name of the drawee; (4) the place indicated next to the name of the payee; (5) the place of payment [CORRECTED #3: "the place where the drawer signed" is imprecise; it is the place stated next to the signature]. Further proviso: the place where the bill is drawn or the place of payment must be specified and be in a Contracting State [UNVERIFIED; glossary agrees].
+- 🟣 D-D-D-P-P: Drawn, Drawer's signature, Drawee's name, Payee's name, Place of payment.
+- 🟡 Traps: "international" is tested by places written on the instrument, not by the parties' nationalities or where they live; two places in different States suffice even if the other three are blank; an instrument carrying the words but with all places in one State is not governed; an instrument with international places but without the words is not governed.
+- 🔴 Excluded: cheques (Art 1). Chapter and glossary silent on the reason: SOURCE DOES NOT ESTABLISH THIS.
+- How ACCA could test it: 2 marks, "which TWO of the following make a bill international?" or true/false on whether the words are needed.
+- 🟢 Scenario (illustrative): a bill headed with the Convention words shows "Drawn at Lagos" beside the drawer's signature and "Payable at Bank K, Rotterdam" as the place of payment; no other places appear. Two places in different States: it is an international bill. If instead every place stated is in Nigeria, it is not, whatever the drawee's nationality.
+
+#### 2.4.4 A definite sum: Art 7 and the interest rules — HIGH
+
+What it covers: the rule tested in 🟢 2025–26 Q2 and entirely absent from the chapter [ADDED: Convention Art 7, verified].
+
+🔴 The sum payable by an instrument is deemed to be a definite sum although the instrument states that it is to be paid:
+(a) with interest;
+(b) by instalments at successive dates;
+(c) by instalments at successive dates with a stipulation that upon default in payment of any instalment the unpaid balance becomes due;
+(d) according to a rate of exchange indicated in the instrument or to be determined as directed by the instrument; or
+(e) in a currency other than the currency in which the sum is expressed in the instrument.
+
+- 🟣 I-I-A-X-C: Interest, Instalments, Acceleration clause, eXchange rate, Currency.
+- 🔴 Interest: a stipulation that the sum is to be paid with interest is deemed not to have been written unless it indicates the rate at which interest is to be paid [ADDED: Convention, verified; article number (Art 8) UNVERIFIED]. 🔴 The rate may be fixed or variable; a variable rate must vary in accordance with provisions stipulated in the instrument and by reference to one or more reference rates published or otherwise publicly available, may not be subject to unilateral determination by a person named in the instrument (unless named only in the reference-rate provisions), and the instrument may set limits to the permissible variation [ADDED: UNCITRAL explanatory note, verified].
+- 🟡 The 2025–26 distractors: "bills payable 'with interest' are only definite if the interest is at a fixed rate" (false: variable reference rates are allowed); "bills must be for single payments rather than instalments" (false: (b) and (c)). Correct: exchange-rate bills (d) and other-currency bills (e).
+- How ACCA could test it: "which TWO statements are correct about a definite sum" (2 marks); 1 mark, "A bill payable in instalments is not for a definite sum" (false).
+- 🟢 Scenario (illustrative): a Convention bill for "EUR 100,000 payable in USD at the ECB reference rate on the due date, with interest at EURIBOR plus 2%". It is for a definite sum: (d), (e) and a variable reference-rate interest clause are all permitted. If it said "with interest" and no rate, the interest words would be treated as not written and the bill would be for EUR 100,000 without interest.
+
+#### 2.4.5 Time of payment: on demand or at a definite time (Art 9) — HIGH
+
+What it covers: the second half of Art 3(1)(b), which the chapter renders in 1882 Act language (p.57) [CORRECTED #20].
+
+- 🔴 Payable on demand: an instrument which states that it is payable on demand or at sight or on presentment, or one in which no time of payment is expressed [UNVERIFIED].
+- 🔴 Payable at a definite time if it states that it is payable: (a) on a stated date, or at a fixed period after a stated date, or at a fixed period after the date of the instrument; (b) at a fixed period after sight; (c) by instalments at successive dates; or (d) by instalments at successive dates with the stipulation that upon default the unpaid balance becomes due [ADDED: Art 9; items (a) and (d) verified, (b) and (c) UNVERIFIED].
+- 🔴 The time of payment of a bill payable at a fixed period after sight is determined by the date of acceptance or, if the bill is dishonoured by non-acceptance, by the date of protest or, if protest is dispensed with, by the date of dishonour [ADDED: Art 9, verified].
+- Terminology: a sight bill is payable on presentation; a time (usance) bill is payable at a fixed future date or a fixed period after sight, giving the buyer credit [ADDED: glossary cross-check; general knowledge].
+- 🟡 Trap: "90 days after sight" is a definite time even though the calendar date is unknown when the bill is drawn; the clock starts at acceptance.
+- 🟢 Scenario (illustrative): a bill "payable 90 days after sight" is presented for acceptance and accepted on 1 October 2026. Maturity is 30 December 2026. Had the drawee refused acceptance and protest been made on 3 October, the 90 days run from 3 October.
+
+#### 2.4.6 Transfer, endorsement and the holder (Arts 13–16) — HIGH
+
+What it covers: the chapter's endorsement chain (p.58) in Convention terms, including the point tested in 🟢 Dec 2017.
+
+- 🔴 An instrument is transferred (a) by endorsement and delivery of the instrument by the endorser to the endorsee, or (b) by mere delivery of the instrument if the last endorsement is in blank [ADDED: Convention; substance verified by examiner's report Dec 2017; article number (Art 13) UNVERIFIED] [CORRECTED #4: the chapter's "bearer bill" is this rule under the wrong name].
+- 🔴 An endorsement must be written on the instrument or on a slip affixed to it (an "allonge"), signed; it must be unconditional; a conditional endorsement transfers the instrument whether or not the condition is fulfilled [ADDED: Convention; unconditional requirement verified via explanatory note; the rest UNVERIFIED].
+- 🔴 Blank endorsement: a signature alone, or a signature with a statement that the instrument is payable to a person in possession of it [ADDED: Art 14/15 extract, verified]. 🔴 Special endorsement: signature with a statement naming the person to whom the instrument is payable (chapter: "in favour of a specified person (the indorsee)"). A holder of a blank-endorsed instrument may convert the blank endorsement into a special one by writing in a name [UNVERIFIED].
+- 🔴 Holder (Art 15, verified): (a) the payee in possession of the instrument; or (b) a person in possession of an instrument which has been endorsed to him, or on which the last endorsement is in blank, and on which there appears an uninterrupted series of endorsements, even if any endorsement was forged or was signed by an agent without authority.
+- 🟡 Trap: possession is not enough for an instrument specially endorsed to someone else; the chain of endorsements must reach the possessor (or end in blank). 🟡 Trap: a forged endorsement does not break the chain for holder status under Art 15, though the forgery still has consequences for liability (2.4.8) and for protected-holder status.
+- 🔵 The chapter's endorsement chain (p.58), in Convention language: payee endorses specially → endorsee endorses specially or in blank → ... → once an endorsement is in blank, any possessor may transfer by mere delivery and is a holder; the possessor may write in a name and continue the chain by endorsement.
+- How ACCA could test it: 1 mark, "In relation to the transfer of a bill endorsed in blank, which is true?" (it can be transferred by delivery) 🟢 Dec 2017. True/false: "An endorsement may be made subject to a condition" (it may be written, but the condition is disregarded for transfer).
+- 🟢 Scenario (illustrative): Orion GmbH, payee, signs the back of the bill and hands it to Bank P without naming Bank P. The endorsement is in blank; Bank P is a holder and may transfer the bill to Bank Q by simply delivering it. Bank Q is also a holder. Neither Bank P nor Bank Q has signed, so neither is a party (2.4.8).
+
+#### 2.4.7 Protected holder and defences (Arts 28–32) — HIGH
+
+What it covers: the Convention's equivalent of the holder in due course; not in the chapter [ADDED: Convention Arts 28–32].
+
+- 🔴 Protected holder (Art 29, core verified): the holder of an instrument which was complete when he took it, or which was incomplete within Art 12(1) and was completed in accordance with authority given, provided that when he became a holder he was without knowledge of the defences, claims and dishonour specified in the article, the time limit for presentment for payment had not expired, and he did not obtain the instrument by fraud or theft or participate in a fraud or theft concerning it [conditions beyond "complete" UNVERIFIED].
+- 🔴 Every holder is presumed to be a protected holder unless the contrary is proved [ADDED: Convention, verified; article number (Art 32) UNVERIFIED].
+- 🔴 Effect: a party may not set up against a protected holder the personal defences it could raise against an ordinary holder (for example defences based on the underlying transaction with a prior party); it may still raise defences such as a forged or unauthorised signature, material alteration, its own incapacity, and defences based on the underlying transaction between itself and that holder or the holder's own fraud [ADDED: Art 30] [UNVERIFIED detail]. An ordinary (non-protected) holder takes subject to defences based on the underlying transaction and to the other party's claims [ADDED: Art 28] [UNVERIFIED].
+- 🟡 Glossary cross-check: "for value" is a Bills of Exchange Act 1882 (holder in due course) requirement, not an Art 29 element; do not add it (Part 1, G3).
+- How ACCA could test it: 2 marks true/false: "Every holder is presumed to be a protected holder unless the contrary is proved" (true); "A protected holder is subject to the acceptor's defence that the goods were defective" (false).
+- 🟢 Scenario (illustrative): Bank Q takes a complete Convention bill before maturity, with no knowledge of any dispute, and presents it to the acceptor at maturity. The acceptor refuses to pay because the goods sold by the drawer were defective. That is a defence based on the underlying transaction with a prior party; it fails against Bank Q as protected holder.
+
+#### 2.4.8 Liability of the parties (Arts 33–47) — HIGH
+
+What it covers: who pays when the bill is dishonoured; the chapter's "all prior parties ... will be liable" (p.58) made precise [CORRECTED #5, #6, #7, #9].
+
+| Party | 🔴 Undertaking | Can it be excluded? | Authority / status |
+|---|---|---|---|
+| Drawer | Undertakes that upon dishonour by non-acceptance or non-payment, and upon any necessary protest, he will pay the holder or any endorser or guarantor who takes up and pays the bill | Yes: by an express stipulation in the bill ("without recourse"), effective only if another party is or becomes liable on the bill | Art 38, verified (exclusion); undertaking wording [UNVERIFIED] |
+| Maker (note) | Engages to pay the note according to its terms | No: a stipulation excluding or limiting the maker's liability is ineffective | Art 39, verified (no exclusion) |
+| Drawee | None until acceptance | n/a | General; glossary agrees |
+| Acceptor | Engages to pay the bill according to the terms of his acceptance | 🟡 Acceptance must be unqualified; a conditional or varied acceptance may be treated by the holder as dishonour, and drawer and endorsers who do not consent are discharged if the holder takes the qualified acceptance | Arts 40, 43 [UNVERIFIED] |
+| Endorser | Undertakes that upon dishonour and any necessary protest he will pay the holder or a later endorser or guarantor who takes up and pays | Yes: by express stipulation ("without recourse") | Art 44 [UNVERIFIED] |
+| Transferor by mere delivery | Not a party; not liable on the instrument. Represents to the transferee that the instrument bears no forged or unauthorised signature, has not been materially altered, and that the transferor knows of no fact impairing the transferee's right to payment | Liability only to a transferee who took without knowledge; remedy is recovery of the amount paid with interest against return of the instrument | Art 45(1), verified; (2)–(3) [UNVERIFIED] |
+| Guarantor | Liable to the same extent as the party for whom he became guarantor | Defences: may set up the defences of the party guaranteed, with narrower defences for a guarantor that is a bank or other financial institution | Arts 46–47 [UNVERIFIED detail]; guarantee formalities verified |
+
+- 🔴 Acceptance (Art 41 [number UNVERIFIED]; substance 🟢 2025–26 Q1): must be written on the bill; effected by the drawee's signature accompanied by the word "accepted" or words of similar import, or by the drawee's signature alone. 🟡 Not: the word "accepted" alone; the date alone; an oral promise.
+- 🔴 Guarantee (aval): may be given by any person, whether or not already a party; expressed by "guaranteed", "aval", "good as aval" or words of similar import accompanied by the guarantor's signature, or effected by a signature alone on the front of the instrument (a signature alone on the front, other than the drawer's, maker's or drawee's, is a guarantee); if the guarantor does not specify whom it guarantees, the guarantee is for the acceptor or the drawee (bill) or the maker (note) [ADDED: Convention, verified via explanatory note; article numbers UNVERIFIED].
+- 🔴 The holder may proceed against any one, several or all of the parties liable and is not bound to observe the order in which they became liable [ADDED: Convention Art 71] [UNVERIFIED].
+- How ACCA could test it: "Which TWO are valid methods of acceptance?" (2025–26 Q1); 1 mark, "Which party is primarily liable on an accepted bill?" (the acceptor); true/false "The maker of a promissory note may exclude liability by stipulation" (false).
+- 🟢 Scenario (illustrative): the drawee writes only "accepted" across the bill and does not sign. There is no acceptance; if payment is later refused the bill is dishonoured by non-acceptance and the holder's recourse is against the drawer and endorsers. Had the drawee simply signed, it would be the acceptor and primarily liable.
+- 🟢 Scenario (illustrative): Bank Q, holding a blank-endorsed bill, delivers it to Bank R without signing. The acceptor later dishonours. Bank R may sue the acceptor, the drawer and the endorsers who signed; it cannot sue Bank Q on the bill, only on the Art 45 representations if, for example, an endorsement turns out to be forged.
+
+#### 2.4.9 Presentment, dishonour, protest, notice and recourse (Arts 49–71) — HIGH
+
+What it covers: the procedure the holder must follow to keep the secondary parties liable; the chapter jumps straight from refusal to liability (p.58) [CORRECTED #6].
+
+🔵 Text flowchart
+
+1. Presentment for acceptance: required where the drawer has stipulated it, where the bill is payable at a fixed period after sight, or where it is payable elsewhere than at the drawee's residence or place of business [UNVERIFIED]; otherwise optional.
+2. Presentment for payment: an instrument not payable on demand must be presented on the date of maturity or on one of the two business days which follow; a demand instrument within one year of its date [UNVERIFIED]; presentment may be dispensed with in stated cases (for example where the drawee is insolvent or the instrument so stipulates) [UNVERIFIED].
+3. Dishonour: by non-acceptance where acceptance is refused on due presentment (or presentment is dispensed with and the bill is not accepted); by non-payment where payment is refused on due presentment (or presentment is dispensed with and the instrument is unpaid at maturity) [UNVERIFIED].
+4. 🔴 Protest: a statement of dishonour drawn up at the place where the instrument was dishonoured, signed and dated by a person authorised by the law of that place; it must identify the person at whose request it is made, the place and date, and the demand made and answer given [UNVERIFIED detail]. 🔴 Timing: on the day the instrument is dishonoured or on one of the four business days which follow [ADDED: Convention; verified via official-body reproduction; Art 61 number UNVERIFIED]. Protest may be dispensed with by a stipulation such as "no protest" or "protest dispensed with" [UNVERIFIED]. 🟡 If protest is required and not duly made, the drawer, the endorsers and their guarantors are not liable; the acceptor, maker and their guarantors remain liable [UNVERIFIED].
+5. 🔴 Notice of dishonour: the holder must give notice to the drawer, the last endorser, and all other endorsers and guarantors whose addresses it can ascertain; each endorser or guarantor who receives notice must notify the party immediately before it. 🔴 Timing: within the two business days which follow the day of dishonour or protest, and, for each endorser, within the two business days following receipt of notice [ADDED: Convention; verified via reproduction; Arts 64–66 numbers UNVERIFIED]. 🟡 Unlike the 1882 Act, failure to give notice does not discharge the party who should have received it; the person who failed is liable for the damages that party suffers, capped at the amount of the instrument [UNVERIFIED].
+6. Recourse: after due protest (unless dispensed with) the holder may exercise rights against any party liable [UNVERIFIED]; 🔴 amount recoverable: the amount of the instrument with any stipulated interest, interest from maturity (or from the date of protest) at the stipulated rate or, in its absence, a rate fixed by the Convention, and the expenses of protest and notices [ADDED: Art 70] [UNVERIFIED detail].
+
+- 🟣 4-2-1-4: protest within four business days; notice within two business days; Hague-Visby suit within one year (a different regime); Convention limitation four years.
+- How ACCA could test it: 1 mark, "Within how many business days of dishonour must protest be made?" (four). True/false: "Notice of dishonour must be given within two business days" (true).
+- 🟢 Scenario (illustrative): a Convention bill matures on Monday 2 March 2027 and is presented and dishonoured that day. Protest must be drawn up by Friday 6 March (four business days). Notice of dishonour to the drawer and endorsers must go by Wednesday 4 March. The holder may then recover the face amount, interest and expenses from the acceptor, the drawer or any endorser, in any order.
+
+#### 2.4.10 Discharge and limitation (Arts 72–84) — MEDIUM
+
+What it covers: how liability ends; not in the chapter [ADDED: Convention].
+
+- 🔴 A party is discharged of liability when he pays the holder the amount due at or after maturity, against delivery of the instrument [UNVERIFIED]; payment by the acceptor or maker discharges all parties; payment by the drawer or an endorser discharges the parties after it and gives it rights against the parties before it [UNVERIFIED].
+- 🔴 Limitation (Art 84, verified): a right of action arising on an instrument may no longer be exercised after four years have elapsed. Starting points [UNVERIFIED]: against the maker or the maker's guarantor of a note payable on demand, from the date of the note; against the acceptor, maker or their guarantors of an instrument payable at a definite time, from the date of maturity; against the drawer, endorsers and their guarantors, from the date of protest (or, where protest is dispensed with, from maturity); against a party who has paid and seeks to recover from prior parties, from the date of payment.
+- 🟡 Four years (Convention) v one year (Hague-Visby suit against the carrier).
+
+#### 2.4.11 Life of a Convention bill: the chapter's sequence corrected — HIGH
+
+Chapter p.58, reorganised as a 🔵 flowchart with the governing rule at each step.
+
+1. Drawer draws the bill on the drawee, payable to the payee or order, dated, signed, carrying the Convention words and two places in different States (Arts 1–3).
+2. Bill presented to the drawee for acceptance where required; drawee signs (with or without "accepted") and becomes the acceptor, primarily liable (Art 41). Refusal = dishonour by non-acceptance → protest and notice → recourse against the drawer.
+3. Accepted bill delivered to the payee; payee may hold to maturity or transfer it, typically by endorsement and delivery to a bank for immediate cash at a discount (chapter: "if they want the money now instead of at some fixed or determinable future time").
+4. Endorsements continue the chain (special or blank); after a blank endorsement, transfer by mere delivery is possible (Art 13); a good-faith taker is presumed a protected holder (Art 32).
+5. Holder presents for payment at maturity or within the two following business days.
+6. Paid → all parties discharged. Dishonoured by non-payment → protest within four business days, notice within two → recourse against acceptor, drawer, endorsers and guarantors (not against a transferor by mere delivery) within four years.
+
+#### 2.4.12 Promissory notes — HIGH
+
+What it covers: the half of the outcome the chapter omits entirely [ADDED: Convention].
+
+- 🔴 A note is a promise by the maker to pay, not an order to a third person: two parties at the outset (maker, payee), no drawee, no acceptance (Art 3(2), verified).
+- 🔴 The maker is liable from signature as the acceptor of a bill would be, and cannot exclude or limit that liability (Art 39, verified in substance). 🟡 Contrast the drawer of a bill, who can draw "without recourse".
+- 🔴 Words required: heading and text "International promissory note (UNCITRAL Convention)" (Art 1, verified); internationality by two places in different States (Art 2, the drawee place being irrelevant).
+- The rules on transfer, holders, protected holders, guarantee, presentment for payment, protest, notice and limitation apply to notes as to bills [UNVERIFIED as to the drafting technique]; there is no presentment for acceptance.
+- Where the note is guaranteed without naming the party, the guarantee is for the maker (verified).
+- How ACCA could test it: 1 mark, "Which party is primarily liable on an international promissory note?" (the maker). True/false: "A promissory note must be accepted before the maker is liable" (false).
+- 🟢 Scenario (illustrative): Solano SA signs a document headed "International promissory note (UNCITRAL Convention)": "We promise to pay Rialto Ltd or order USD 200,000 on 30 June 2027", dated, place of making Buenos Aires, place of payment London. Solano is the maker, primarily liable from signature; Rialto is payee and holder. Any clause "maker not liable" is ineffective.
+
 Reply continue.
